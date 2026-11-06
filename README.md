@@ -55,8 +55,9 @@ https://github.com/ETML-RRY/324_inspection_git.git
 ### Partie 4 — Branches et fusions
 
 9. Quelles branches ont été fusionnées dans `main` ?  
+    feature/header; feature/login; hotfix/typo
 10. Quelle branche **n'a pas été fusionnée** ? Pourquoi, selon vous ? 
-
+    experiment/dark-mode, car c'est une expériance
 ### Partie 5 — Analyse du contenu
 
 11. Quelle est la **différence principale** entre les fichiers `index.html` dans les versions `v0.1` et `v0.2` et quelle commande permet de le voir rapidement ?  
