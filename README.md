@@ -41,11 +41,16 @@ https://github.com/ETML-RRY/324_inspection_git.git
 
 ### Partie 3 — Historique et commits
 
-4. Quel est le message du **premier commit** du projet ?  
+4. Quel est le message du **premier commit** du projet ? 
+    "Initial commit: structure HTML/CSS/JS + README + docs"
 5. Trouvez le commit où une **clé API** a été ajoutée par erreur. Quel est son identifiant (hash court) ?  
-6. Quel commit a ensuite corrigé cette erreur ?  
+    bea2d1a
+6. Quel commit a ensuite corrigé cette erreur ? 
+    1b682c9
 7. Trouvez le commit où le **titre de la page d'accueil** a été corrigé.  
+    6317c07
 8. Quel est le message du commit qui a **ajouté le fichier `CHANGELOG.md`** et quelle commande avez-vous utilisé ?
+    ed62890 j'ai fait git log
 
 ### Partie 4 — Branches et fusions
 
