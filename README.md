@@ -58,6 +58,7 @@ https://github.com/ETML-RRY/324_inspection_git.git
     feature/header; feature/login
 10. Quelle branche **n'a pas été fusionnée** ? Pourquoi, selon vous ? 
     experiment/dark-mode, car c'est une expériance
+
 ### Partie 5 — Analyse du contenu
 
 11. Quelle est la **différence principale** entre les fichiers `index.html` dans les versions `v0.1` et `v0.2` et quelle commande permet de le voir rapidement ?  
@@ -72,7 +73,9 @@ https://github.com/ETML-RRY/324_inspection_git.git
 
 ### Partie 6 — Réflexion
 
-15. Pourquoi est-il important de **taguer** des versions dans un projet ?  
+15. Pourquoi est-il important de **taguer** des versions dans un projet ?
+    pour les releases
 16. Que peut-on déduire du style de travail de l'équipe à partir de cet historique GIT ?  
+    c'est une équipe oragnisé qui a choisi un nomage claire de chaque commit
 
 Bonne chance, et surtout... **ne vous perdez pas dans le log !** 😉
