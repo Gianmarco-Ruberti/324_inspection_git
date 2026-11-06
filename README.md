@@ -55,15 +55,20 @@ https://github.com/ETML-RRY/324_inspection_git.git
 ### Partie 4 — Branches et fusions
 
 9. Quelles branches ont été fusionnées dans `main` ?  
-    feature/header; feature/login; hotfix/typo
+    feature/header; feature/login
 10. Quelle branche **n'a pas été fusionnée** ? Pourquoi, selon vous ? 
     experiment/dark-mode, car c'est une expériance
 ### Partie 5 — Analyse du contenu
 
 11. Quelle est la **différence principale** entre les fichiers `index.html` dans les versions `v0.1` et `v0.2` et quelle commande permet de le voir rapidement ?  
-12. Que contient la branche `feature/login` ?  
-13. Dans quelle branche a été ajouté le code pour le **mode sombre** ?  
+    "<header><nav><a href="/">Accueil</a> | <a href="#">Contact</a></nav></header>"
+    git diff 4d28bc59eee6c8f52277bf505642a0e8e3595674 5d66c29ef71dcd9f8e91794bf4c8591a9a56823d
+12. Que contient la branche `feature/login` ? 
+    la page de connexion et pseudo-fonction JS
+13. Dans quelle branche a été ajouté le code pour le **mode sombre** ? 
+    hotfix/typo 
 14. Quelle bonne pratique de sécurité est évoquée dans les commits du fichier `config.js` ?
+    clé API retirée; utiliser des variables d'environnement
 
 ### Partie 6 — Réflexion
 
